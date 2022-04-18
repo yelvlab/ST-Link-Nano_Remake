@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Pins,Quantity
+"104","","C1,C4","C0402","","",2
+"106","","C2,C3","C0402","","",2
+"LED_B","LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator","D1,D2,D3","LED_0402_1005Metric","","",3
+"SWD_OUT","surface-mounted straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated","J1","PinSocket_2x04_P2.54mm_Vertical_SMD","","",1
+"Jumper_3_Bridged12","","JP1,JP2","JUMPER_0402","","",2
+"USB_C_Plug","USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf","P1","USB_C_Receptacle_HRO_TYPE-C-31-M-12","","",1
+"22R","","R4,R6","R0402","","",2
+"3K3","","R5","R0402","","",1
+"10K","","R7,R11,R12,R1,R2,R3,R10,R13","R0402","","",8
+"680R","","R8,R9","R0402","","",2
+"STM32F103CBT6","","U1","QFP-48_7x7_Pitch0.5mm","","",1
+"LP2992-3V3","5-pin SOT23 package","U2","SOT-23-5","","",1
+"Crystal_8M-3213-3P","CSTCE-V_C","Y1","CSTCE16M","","",1
